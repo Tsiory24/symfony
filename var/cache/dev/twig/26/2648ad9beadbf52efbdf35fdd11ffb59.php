@@ -156,6 +156,6 @@ class __TwigTemplate_18b94c06dfff4a4ce6acfcc66a4eb3f2 extends Template
         </div>
     </div>
 {% endblock %}
-", "home/index.html.twig", "E:\\S5\\Mr Rojo\\symfony\\49-sources\\taskmanager\\templates\\home\\index.html.twig");
+", "home/index.html.twig", "E:\\S5\\Mr Rojo\\symfony\\symfony\\templates\\home\\index.html.twig");
     }
 }

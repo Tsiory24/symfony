@@ -928,6 +928,6 @@ class __TwigTemplate_5538a32536a60548d2f1168cde7b4f29 extends Template
         </tbody>
     </table>
 {% endmacro %}
-", "@WebProfiler/Collector/translation.html.twig", "E:\\S5\\Mr Rojo\\symfony\\49-sources\\taskmanager\\vendor\\symfony\\web-profiler-bundle\\Resources\\views\\Collector\\translation.html.twig");
+", "@WebProfiler/Collector/translation.html.twig", "E:\\S5\\Mr Rojo\\symfony\\symfony\\vendor\\symfony\\web-profiler-bundle\\Resources\\views\\Collector\\translation.html.twig");
     }
 }

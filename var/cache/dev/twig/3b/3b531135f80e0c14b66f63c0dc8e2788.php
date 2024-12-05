@@ -200,6 +200,6 @@ class __TwigTemplate_a1095f7697563eb38e644fdeac1e37ff extends Template
     </div>
 </div>
 {% endblock %}
-", "project/index.html.twig", "E:\\S5\\Mr Rojo\\symfony\\49-sources\\taskmanager\\templates\\project\\index.html.twig");
+", "project/index.html.twig", "E:\\S5\\Mr Rojo\\symfony\\symfony\\templates\\project\\index.html.twig");
     }
 }

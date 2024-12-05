@@ -267,6 +267,6 @@ class __TwigTemplate_78a800a0908f8ab23abbc07a0bd5c1b9 extends Template
         </div>
     </body>
 </html>
-", "base.html.twig", "E:\\S5\\Mr Rojo\\symfony\\49-sources\\taskmanager\\templates\\base.html.twig");
+", "base.html.twig", "E:\\S5\\Mr Rojo\\symfony\\symfony\\templates\\base.html.twig");
     }
 }

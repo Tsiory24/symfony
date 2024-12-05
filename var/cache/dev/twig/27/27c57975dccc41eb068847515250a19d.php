@@ -102,6 +102,6 @@ class __TwigTemplate_312be88d20767bdd75b8a60f42be64f1 extends Template
 <div class='alert alert-{{type}}'>
   {{ messages | join('. ') }}
 </div>
-{% endfor %}", "partials/toast.html.twig", "E:\\S5\\Mr Rojo\\symfony\\49-sources\\taskmanager\\templates\\partials\\toast.html.twig");
+{% endfor %}", "partials/toast.html.twig", "E:\\S5\\Mr Rojo\\symfony\\symfony\\templates\\partials\\toast.html.twig");
     }
 }
